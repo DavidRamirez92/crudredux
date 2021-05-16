@@ -34,6 +34,21 @@
       "nombre": "tequila",
       "precio": 1,
       "id": 7
+    },
+    {
+      "nombre": "tequila",
+      "precio": 100,
+      "id": 8
+    },
+    {
+      "nombre": "tequila",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "tequila",
+      "precio": 100,
+      "id": 10
     }
   ]
 }
