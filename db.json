@@ -6,13 +6,13 @@
       "id": 3
     },
     {
-      "nombre": "Rib Eye 800g",
+      "nombre": "Rib Eye ",
       "precio": "200",
       "id": 4
     },
     {
       "nombre": "tequila",
-      "precio": 1,
+      "precio": "100",
       "id": 7
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "nombre": "tequila",
-      "precio": 100,
+      "precio": "1000",
       "id": 9
     },
     {
