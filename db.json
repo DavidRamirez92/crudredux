@@ -14,31 +14,6 @@
       "nombre": "tequila",
       "precio": "100",
       "id": 7
-    },
-    {
-      "nombre": "tequila",
-      "precio": 100,
-      "id": 8
-    },
-    {
-      "nombre": "tequila",
-      "precio": "1000",
-      "id": 9
-    },
-    {
-      "nombre": "tequila",
-      "precio": 100,
-      "id": 10
-    },
-    {
-      "nombre": "tequila",
-      "precio": 100,
-      "id": 11
-    },
-    {
-      "nombre": "ASADO",
-      "precio": 1000,
-      "id": 12
     }
   ]
 }
