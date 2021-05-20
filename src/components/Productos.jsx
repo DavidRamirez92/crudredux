@@ -11,8 +11,9 @@ const Productos = () => {
         const cargarProductos = () => dispatch(obtenerProductosAction() );
         cargarProductos();
         return () => {
-
+            
         }
+        //eslint-disable-next-line
     }, []);
     //obtener el state
     const productos = useSelector(state => state.productos.productos);
